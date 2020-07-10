@@ -1,4 +1,4 @@
-![resume](https://github.com/Cryptonex7/cryptonex7/blob/master/page1_1.png)
+![resume](https://github.com/Cryptonex7/cryptonex7/blob/master/shift8-javascript-port-scanner-2-768x576.jpg)
 <!--
 **Cryptonex7/cryptonex7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
