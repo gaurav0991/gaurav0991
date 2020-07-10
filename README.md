@@ -1,3 +1,5 @@
+# JavaScript is the King of All Languages!
+## Change My Mind!
 ![resume](https://github.com/Cryptonex7/cryptonex7/blob/master/The_Best_Java_Script_Libraries_1800x500-1-1280x356.jpg)
 <!--
 **Cryptonex7/cryptonex7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
