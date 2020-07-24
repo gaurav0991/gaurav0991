@@ -29,7 +29,8 @@
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=Flutter&logoColor=007afb" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=Flutter&logoColor=007afb" />
+  <br/>
   <img src="https://img.shields.io/badge/-Dart-black?style=for-the-badge&logo=dart&logoColor=007afb" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,8 +40,10 @@
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
   <br/>
+  <br/>
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <br/>
   <br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cryptonex7.cryptonex7" />
 
