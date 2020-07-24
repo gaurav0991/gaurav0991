@@ -37,13 +37,12 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <br/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
   <br/>
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />&
   <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cryptonex7.cryptonex7" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cryptonex7.cryptonex7" />
 
 </p>
 
