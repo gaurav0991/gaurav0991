@@ -12,8 +12,8 @@ Change My Mind!
 <br />
 <br />
 
-<p class="blue" style="text-align: justify; &::after { content: ''; width: 100%; display: inline-block;}" align="justify">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptonex7&theme=radical&show_icons=true" alt="Anujeet's github stats"/>
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptonex7&theme=radical&show_icons=true&count_private=true" alt="Anujeet's github stats"/>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptonex7&hide=html&show_icons=true&theme=tokyonight" alt="Anujeet's github stats"/>
 </p>
 
