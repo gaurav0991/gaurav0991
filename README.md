@@ -12,8 +12,6 @@ Change My Mind!
 
 <a href="https://github.com/Cryptonex7">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptonex7&theme=radical&show_icons=true" alt="Anujeet's github stats"/></a>
- 
-<br /><br /> 
 <a href="https://github.com/Cryptonex7">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptonex7&hide=html&show_icons=true&theme=tokyonight" alt="Anujeet's github stats"/></a>
 <div align="center">
