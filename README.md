@@ -1,4 +1,4 @@
-<h1 align="center">Anujeet Chatterjee Welcomes You!</h1>
+<h2 align="center">Anujeet Chatterjee Welcomes You!</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/a-chatterjee/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://github.com/Cryptonex7"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,7 +20,6 @@
 <br />
 <br />
 
-<h3 align="center">My Tech</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
