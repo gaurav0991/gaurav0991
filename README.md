@@ -15,14 +15,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 
 <h1 align="center">My Tech</h1>
@@ -39,18 +31,17 @@
   <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+  <br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cryptonex7.cryptonex7" />&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 
 <br />
 
-## About Me
- + 21 Years old
- + Pursuing B.Tech in Information Technology @KIIT
- + [Portfolio](https://cryptonex7.github.io)
- + [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
- + [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
- + ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nikhilcodes.nikhilcodes)
 
 
 <!--
