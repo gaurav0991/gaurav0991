@@ -11,15 +11,32 @@ Change My Mind!
 </p>
 <br />
 <br />
-
+<p>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=cryptonex7&theme=radical&show_icons=true&count_private=true" alt="Anujeet's github stats"/>
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptonex7&hide=html&show_icons=true&theme=tokyonight" alt="Anujeet's github stats"/>
-
+</p>
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-
-<div align="center">
+<div align="justify">......... ........... ..........</div>
+<div align="justify">
 
 ## My Tech
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
