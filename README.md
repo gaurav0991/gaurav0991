@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" media="all" href="markdown_styles.css" />
 # JavaScript is the King of All Languages!
 Change My Mind!
 ![banner](https://github.com/Cryptonex7/cryptonex7/blob/master/The_Best_Java_Script_Libraries_1800x500-1-1280x356.jpg)
@@ -10,10 +11,11 @@ Change My Mind!
 <br />
 <br />
 
-<a href="https://github.com/Cryptonex7">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptonex7&theme=radical&show_icons=true" alt="Anujeet's github stats"/></a>
-<a href="https://github.com/Cryptonex7">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptonex7&hide=html&show_icons=true&theme=tokyonight" alt="Anujeet's github stats"/></a>
+<p class="blue" style="text-align: justify; &::after { content: ''; width: 100%; display: inline-block;}" align="justify">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptonex7&theme=radical&show_icons=true" alt="Anujeet's github stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptonex7&hide=html&show_icons=true&theme=tokyonight" alt="Anujeet's github stats"/>
+</p>
+
 <div align="center">
 
 ## My Tech
