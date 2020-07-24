@@ -1,5 +1,5 @@
 # JavaScript is the King of All Languages!
-## Change My Mind!
+Change My Mind!
 ![banner](https://github.com/Cryptonex7/cryptonex7/blob/master/The_Best_Java_Script_Libraries_1800x500-1-1280x356.jpg)
 
 <p align="center">
@@ -10,14 +10,14 @@
 <br />
 <br />
 
-<a href="https://github.com/NikhilCodes">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptonex7&theme=radical&show_icons=true" alt="Nikhil's github stats"/></a>
+<a href="https://github.com/Cryptonex7">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptonex7&theme=radical&show_icons=true" alt="Anujeet's github stats"/></a>
  
 <br /><br /> 
-<a href="https://github.com/NikhilCodes">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptonex7&hide=html&show_icons=true&theme=tokyonight" alt="Nikhil's github stats"/></a>
+<a href="https://github.com/Cryptonex7">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptonex7&hide=html&show_icons=true&theme=tokyonight" alt="Anujeet's github stats"/></a>
 
-## Tech I work with
+## My Tech
 
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
