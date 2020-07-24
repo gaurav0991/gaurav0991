@@ -40,8 +40,8 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
   <br/>
   <br/>
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/OS-Ubuntu%2020.04%20LTS-informational?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
   <br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cryptonex7.cryptonex7" />
