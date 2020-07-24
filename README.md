@@ -7,7 +7,7 @@
 <br />
 <br />
 <p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cryptonex7&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Anujeet's github stats"/>
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cryptonex7&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Anujeet's github stats"/>
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptonex7&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Anujeet's github stats"/>
 </p>
 <br />
@@ -24,7 +24,7 @@
 <br />
 <br />
 
-<div align="justify">
+<p align="center">
 
 ## My Tech
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
@@ -39,7 +39,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
-</div>
+</p>
+
 <br />
 
 ## About Me
