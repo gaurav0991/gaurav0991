@@ -21,7 +21,7 @@
 <br />
 <br />
 
-<h1 align="center">My Tech</h1>
+<h3 align="center">My Tech</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
