@@ -28,14 +28,7 @@ Change My Mind!
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
-<div align="justify">......... ........... ..........</div>
 <div align="justify">
 
 ## My Tech
