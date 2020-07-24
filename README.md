@@ -1,6 +1,4 @@
----
 <link rel="stylesheet" type="text/css" media="all" href="markdown_styles.css" />
----
 
 # JavaScript is the King of All Languages!
 Change My Mind!
