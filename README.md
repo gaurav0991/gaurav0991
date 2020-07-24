@@ -16,9 +16,9 @@ Change My Mind!
 <br /><br /> 
 <a href="https://github.com/Cryptonex7">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptonex7&hide=html&show_icons=true&theme=tokyonight" alt="Anujeet's github stats"/></a>
+<div align="center">
 
 ## My Tech
-<div align="center">
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
@@ -30,6 +30,7 @@ Change My Mind!
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+
 </div>
 <br />
 
