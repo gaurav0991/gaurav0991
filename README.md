@@ -12,10 +12,12 @@ Change My Mind!
 <br />
 <br />
 
-<p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptonex7&theme=radical&show_icons=true&count_private=true" alt="Anujeet's github stats"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptonex7&hide=html&show_icons=true&theme=tokyonight" alt="Anujeet's github stats"/>
-</p>
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cryptonex7&theme=radical&show_icons=true&count_private=true" alt="Anujeet's github stats"/>
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptonex7&hide=html&show_icons=true&theme=tokyonight" alt="Anujeet's github stats"/>
+
+<br />
+<br />
+
 
 <div align="center">
 
