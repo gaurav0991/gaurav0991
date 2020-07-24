@@ -1,9 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="markdown_styles.css" />
-
-# JavaScript is the King of All Languages!
-Change My Mind!
-![banner](https://github.com/Cryptonex7/cryptonex7/blob/master/The_Best_Java_Script_Libraries_1800x500-1-1280x356.jpg)
-
+<h1 align="center">Anujeet Chatterjee Welcomes You!</h1>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/a-chatterjee/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://github.com/Cryptonex7"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -12,8 +7,8 @@ Change My Mind!
 <br />
 <br />
 <p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cryptonex7&theme=radical&show_icons=true&count_private=true" alt="Anujeet's github stats"/>
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptonex7&hide=html&show_icons=true&theme=tokyonight" alt="Anujeet's github stats"/>
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cryptonex7&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Anujeet's github stats"/>
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptonex7&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Anujeet's github stats"/>
 </p>
 <br />
 <br />
