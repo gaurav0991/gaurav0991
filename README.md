@@ -2,18 +2,16 @@
 ## Change My Mind!
 ![banner](https://github.com/Cryptonex7/cryptonex7/blob/master/The_Best_Java_Script_Libraries_1800x500-1-1280x356.jpg)
 
-![Banner](https://raw.githubusercontent.com/NikhilCodes/NikhilCodes/master/res/banner.png)
-
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/nikhil-nayak-3b0967179/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://github.com/NikhilCodes"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:nikhil.nixel@gmail.com?subject=Hello%20Nikhil,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/a-chatterjee/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://github.com/Cryptonex7"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:anujeet@gmail.com?subject=Hello%20Anujeet,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br />
 <br />
 
 <a href="https://github.com/NikhilCodes">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptonex7&theme=radical&hide=issues&show_icons=true" alt="Nikhil's github stats"/></a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptonex7&theme=radical&show_icons=true" alt="Nikhil's github stats"/></a>
  
 <br /><br /> 
 <a href="https://github.com/NikhilCodes">
