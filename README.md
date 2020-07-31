@@ -2,11 +2,11 @@
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/gaurav-saraf-39aa811a0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://github.com/gaurav0991"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:gsaraf895@gmail.com?subject=Hello%20Anujeet,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:gsaraf895@gmail.com?subject=Hello%20Gaurav,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gaurav0991&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Anujeet's github stats"/>
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav0991&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Anujeet's github stats"/>
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gaurav0991&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Gaurav's github stats"/>
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav0991&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Gaurav's github stats"/>
 </p>
 <br />
 <br />
